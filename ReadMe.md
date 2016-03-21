@@ -1,3 +1,14 @@
+Nanopass Has Moved
+==================
+The Nanopass framework for Racket has moved to its own github group. This one
+will no longer get updates. You can find the new repo here:
+
+https://github.com/nanopass/nanopass-framework-racket
+
+Additional information can be found at the nanopass website:
+
+http://nanopass.org
+
 Nanopass Compiler Library
 ==========================
 
